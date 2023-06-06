@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/materialUIDemo/static/css/main.f1cf503d.css",
+    "main.js": "/materialUIDemo/static/js/main.842f0218.js",
+    "static/js/787.c4d1d5c9.chunk.js": "/materialUIDemo/static/js/787.c4d1d5c9.chunk.js",
+    "static/media/mob3.jpg": "/materialUIDemo/static/media/mob3.fd31b25ceef34d59c896.jpg",
+    "static/media/mob4.jpg": "/materialUIDemo/static/media/mob4.59da6e447f791eb6ca36.jpg",
+    "static/media/mob2.jpeg": "/materialUIDemo/static/media/mob2.09d52fc5fe776144d74c.jpeg",
+    "static/media/lap1.jpg": "/materialUIDemo/static/media/lap1.b4278dc76ff9ad76c4fa.jpg",
+    "static/media/lap3.jpeg": "/materialUIDemo/static/media/lap3.2dcf713cc64bf68ec4d4.jpeg",
+    "static/media/img1.jpeg": "/materialUIDemo/static/media/img1.0850d565a95201d16178.jpeg",
+    "static/media/mob1.jpg": "/materialUIDemo/static/media/mob1.7a418afcf87374243ebc.jpg",
+    "static/media/lap2.jpeg": "/materialUIDemo/static/media/lap2.1f9f44a981cf36904e83.jpeg",
+    "index.html": "/materialUIDemo/index.html",
+    "main.f1cf503d.css.map": "/materialUIDemo/static/css/main.f1cf503d.css.map",
+    "main.842f0218.js.map": "/materialUIDemo/static/js/main.842f0218.js.map",
+    "787.c4d1d5c9.chunk.js.map": "/materialUIDemo/static/js/787.c4d1d5c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1cf503d.css",
+    "static/js/main.842f0218.js"
+  ]
+}
